@@ -106,6 +106,7 @@ Teste	Resultado Esperado
 👨‍💻 Desenvolvido por: 
 - Ana Julia
 - João Vitor Passos
+- Vinicius Martin
   
 Curso: Ciência da Computação
 
